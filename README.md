@@ -60,7 +60,7 @@ The workflow in `.github/workflows/pages.yml` tests and builds the app whenever 
 The production URL will have this form:
 
 ```text
-https://YOUR-USERNAME.github.io/atlas-of-why/
+https://markberg-star.github.io/First-Principles/
 ```
 
 On iPhone, open that URL in Safari, tap Share, and choose Add to Home Screen. On Android, open the browser menu and choose Install app.
