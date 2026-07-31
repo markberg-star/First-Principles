@@ -1,0 +1,19 @@
+{
+  "name": "Atlas of Why",
+  "short_name": "Atlas",
+  "description": "One useful idea, rebuilt from first principles, every day.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071821",
+  "theme_color": "#071821",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
